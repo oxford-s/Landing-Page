@@ -79,24 +79,11 @@ coffee-house/
 - Optimized CSS animations
 - Responsive images
 
-## Contributing
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details
 
 ## Credits
 
-- Design & Development: Code And Create
 - Images: Various sources
 - Icons: Font Awesome
 - Fonts: Google Fonts
 
----
-© 2023 Coffee House. All Rights Reserved.
